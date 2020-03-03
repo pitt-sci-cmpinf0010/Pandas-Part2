@@ -11,10 +11,9 @@ If you have questions about this week's lab, reading, or lecture, ANY TA for thi
 
 If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems. Office hours are:
 
-* Tuesday, 11-12
+* Monday, 2-4
 * Tuesday, 4-5
-* Thursday, 10-12
-* Friday, 11-12
+* Thursday, 4-5
 
 Office hours will be held in the Digital Scholarship Commons in the back of the ground floor of Hillman Library.
 
@@ -32,16 +31,11 @@ This week, we are sticking to Python. Specifically, our focus will be on an add-
 
 ## Getting Started™
 
-1. In JupyterLab, open a Launcher and select `Terminal`
-2. Type in `cd CMPINF0010`
+1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
+2. Go to Modules
+5. Click `Skills Lab Week 9` and click where is says `Click Here!`
+6. JupyterHub should open up to this week's materials!
 
-    - Or, **if you named your class folder something different**, replace `CMPINF0010` with whatever you named your folder
-5. Now, copy and paste this command into the terminal
-    ```
-    git clone https://github.com/pitt-sci-cmpinf0010/week-9.git
-    ```
-    - If you can't seem to paste anything, try using Ctrl+Shift+V (or Command+Shift+V)
-6. You should see a new folder named `week-9` inside your class folder
 
 ### If JupyterLab _really_ doesn't work for you
 
@@ -51,11 +45,3 @@ _**Important**:_ Binder does **not** always save your work. If you need to stop 
 
 Click this button to get started with Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/week-9/master?urlpath=lab)
-
-
-
-## Note From Last Week:
-
-Some of the problems from last week's assignment were decidedly difficult (though not NP-complete) and so in lab this week, we will review some of the harder questions and their solutions.
-
----
