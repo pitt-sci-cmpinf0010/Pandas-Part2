@@ -33,7 +33,7 @@ This week, we are sticking to Python. Specifically, our focus will be on an add-
 
 1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
 2. Go to Modules
-5. Click `Skills Lab Week 9` and click where is says `Click Here!`
+5. Click `Skills Lab Week 11` and click where is says `Click Here!`
 6. JupyterHub should open up to this week's materials!
 
 
