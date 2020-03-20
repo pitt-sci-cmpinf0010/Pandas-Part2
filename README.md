@@ -35,8 +35,12 @@ This week, we are sticking to Python. Specifically, our focus will be on an add-
 5. Click `Skills Lab Week 11` and click where is says `Click Here!`
 6. JupyterHub should open up to this week's materials!
 
+## If Pulse Secure doesn't work for you
 
-### If JupyterLab _really_ doesn't work for you
+Use Pitt IT's [Virtual Lab](https://www.technology.pitt.edu/services/virtual-lab). I recommend using the Web Client as listed on that website. You can download and submit files to Canvas directly from the virtual lab instance. However, if you need to get files to your local machine, you should use **OneDrive**, since it it already set up on the machine. You can then download your files to your local machine from [OneDrive](https://onedrive.live.com/about/en-us/signin/).
+
+
+## If JupyterLab doesn't work for you
 
 Use Binder:
 
